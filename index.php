@@ -19,7 +19,7 @@
         <div class="container d-flex align-items-center">
             <!-- <p class="email m-0" style="text-white">Email: admin@visionworldtech.com </p> -->
             <p class="email m-0" style="color: white;">Email :<a href="mailto:admin@visionworldtech.com" style="color: white;"> admin@visionworldtech.com</a> </p>
-            <p class="phone mb-0" style="color: white;">Phone :<a href="tel:0141-2722370" style="color: white;"> 0141-</a></p>
+            <p class="phone mb-0" style="color: white;">Phone :<a href="tel:0141-2722370" style="color: white;"> 0141-2722370</a></p>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
