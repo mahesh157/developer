@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title> Vision World Tech. tech. Pvt. </title>
+    <title> Vision World Tech. tech.Pvt </title>
     <link rel="icon" type="image/ico" href="img/favicon.png">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
@@ -19,7 +19,7 @@
         <div class="container d-flex align-items-center">
             <!-- <p class="email m-0" style="text-white">Email: admin@visionworldtech.com </p> -->
             <p class="email m-0" style="color: white;">Email :<a href="mailto:admin@visionworldtech.com" style="color: white;"> admin@visionworldtech.com</a> </p>
-            <p class="phone mb-0" style="color: white;">Phone :<a href="tel:0141-2722370" style="color: white;"> 0141-2722370</a></p>
+            <p class="phone mb-0" style="color: white;">Phone :<a href="tel:0141-2722370" style="color: white;"> 0141-</a></p>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
