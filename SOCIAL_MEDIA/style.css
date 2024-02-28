@@ -1,0 +1,86 @@
+*{
+    transition: all 0.7s ease !important;
+}
+
+
+.background{
+    background-image: url(img/image.png);
+    color: white !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat:   no-repeat;
+
+}
+.email{
+   
+    padding: 1px 1px
+}
+nav.navbar{
+    background-color: blueviolet !important;
+}
+.phone{
+    padding: 1px 15px;
+    margin-left:5px;
+}
+
+.icon-div{
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-inline: 20px;
+    
+}
+.icon-div a{
+    
+    width: 20px;
+    height: 22px;
+}
+.icon-div a i{
+    margin-bottom: 3px;
+}
+@media (max-width:769px) {
+    .phone{
+        margin-left: 50px;
+    }
+}
+@media (max-width:550px) {
+    .phone{
+        margin-left: 25px;
+    }
+}
+.footer{
+    background-color: rgb(53, 53, 53) ;
+    margin: 0px;
+    padding: 70px;
+
+}
+.img {
+    margin-block: 14px;
+}
+.icons-div{
+    margin-right:20px ;
+    padding: px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    text-align: left;
+    padding-inline: 5px;
+    font-size: 15px;
+
+}
+.font{
+    color: aliceblue;
+    font-size: 15px;
+}
+.font p{
+    line-height: 25px;
+}
+.last{
+    line-height: 5px;
+    margin-block: 0px;
+    padding-block: 10px;
+    font-size: 13px;
+}
