@@ -73,7 +73,7 @@
                     <p
                         style="line-height:20px  ; padding-right:20px !important; font-size: 16px !important; color: aliceblue; font-size: 15px;">
                         World of Technology is fascinating when we experience it with Open Hearts. So we believe in
-                        providing a world-class experience to our clients.</p>
+                        providing a world-class experience to our .</p>
                     <div class="d-flex mb-5  ">
                         <div class="icons-div px-2"><a href="#"><i class="fa-brands fa-facebook-f"
                                     style="color: rgb(27, 24, 24) ;"></i></a></div>
